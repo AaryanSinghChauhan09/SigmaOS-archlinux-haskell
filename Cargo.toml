@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-haskell component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-haskell"
+name = "sigmaos_archlinux_haskell"
 path = "src/lib.rs"
