@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-haskell"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-haskell component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
